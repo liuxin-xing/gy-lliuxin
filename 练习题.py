@@ -39,21 +39,35 @@ import random
 # print(phone())
 
 
-print()
-try:
-    r = open("b.txt","r")
-except (Exception) as e :
-    print(e)
-    print("程序遇到了问题")
+# print()
+# try:
+#     r = open("b.txt","r")
+# except (Exception) as e :
+#     print(e)
+#     print("程序遇到了问题")
+#
+# except ZeroDivisionError as e:
+#     print("重新打开文件")
+# else:
+#     print("程序运行没报错")
+# finally:
+#     print("不管程序有没有报错都会运行")
+#     print("打开文件")
+#
+# print()
+# try:
+#     r = open("b.txt", "r")
+# except (Exception) as e:
+#     print(e)
+#     print("程序遇到了问题")
+#
+# except ZeroDivisionError as e:
+#     print("重新打开文件")
+# else:
+#     print("程序运行没报错")
+# finally:
+#     print("不管程序有没有报错都会运行")
+#     print("打开文件")
 
-except ZeroDivisionError as e:
-    print("重新打开文件")
-else:
-    print("程序运行没报错")
-finally:
-    print("不管程序有没有报错都会运行")
-    print("打开文件")
 
-     ##########################################
-    #################################
-    #############################
+#daffsdvfsdsdvsdsadfsfwefwefwefwefwe
